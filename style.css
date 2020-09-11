@@ -21,7 +21,8 @@
         font-size: 70px
     }
     li {
-        background-color: yellow;
+        background-color: black;
+        color: yellow;
         font-size: 18px
         
     }
