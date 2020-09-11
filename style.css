@@ -21,7 +21,7 @@
         font-size: 70px
     }
     li {
-        background-color: black;
+        background-color: white;
         color: yellow;
         font-size: 18px;
         
@@ -31,22 +31,22 @@
     }
      
     a:link {
-        color: yellow;
+        color: red;
         background-color: transparent;
         text-decoration: none;
     }
 a:visited {
-    color: yellow;
+    color: red;
     background-color: transparent;
     text-decoration: none;
 }
 a:hover {
-    color: yellow;
+    color: red;
     background-color: transparent;
     text-decoration: underline;
 }
 a:active {
-    color: yellow;
+    color: red;
     background-color: transparent;
     text-decoration: underline;
 }
