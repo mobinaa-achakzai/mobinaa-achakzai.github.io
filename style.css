@@ -11,7 +11,7 @@
     .container {
         position: relative;
         text-align: center;
-        color: grey;
+        color: white;
     }
     .middle {
         position: absolute;
@@ -21,7 +21,7 @@
         font-size: 70px
     }
     li {
-        background-color: white;
+        background-color: grey;
         color: yellow;
         font-size: 18px;
         
