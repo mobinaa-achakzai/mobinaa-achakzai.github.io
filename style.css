@@ -4,14 +4,14 @@
     }
     p {
         background-color: maroon;
-        color: grey;
+        color: white;
         text-align: center;
         font-size: 20px;
     }
     .container {
         position: relative;
         text-align: center;
-        color: white;
+        color: grey;
     }
     .middle {
         position: absolute;
